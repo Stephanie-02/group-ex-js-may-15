@@ -1,4 +1,3 @@
-
 Start by editing the index.html file:
 
 A button called "refresh", that will trigger the fetch request we will create later.
